@@ -1,1 +1,1 @@
-# DanskAI2
+# danskai
